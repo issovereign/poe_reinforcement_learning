@@ -1,1 +1,1 @@
-# poe_reinforcement_learning
+use reinforcement learning to play POE
